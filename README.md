@@ -24,14 +24,14 @@ The recordings cover everyday conversation, personal and place names, organizati
 ## Sentence Transcripts
 
 ### 1. Natural Speech
-*Urdu:* [Add the exact Urdu sentence recorded in this file.]
+*Urdu:* میں نے آج صبح تمام ضروری کام مکمل کر لیے ہیں، اس لیے اب میں سکون سے اپنی اگلی میٹنگ کی تیاری کر سکتا ہوں۔
 
-*English:* [Add the English translation.]
+*English:* I completed all the necessary tasks this morning, so now I can prepare for my next meeting without rushing.
 
 ### 2. Natural Speech
-*Urdu:* [Add the exact Urdu sentence recorded in this file.]
+*Urdu:* دروازہ آہستہ سے بند کریں تاکہ کسی کی نیند خراب نہ ہو۔
 
-*English:* [Add the English translation.]
+*English:* Close the door quietly so that nobody's sleep is disturbed.
 
 ### 3. Organizations
 *Urdu:* پاکستان ٹیلی کمیونیکیشن کمپنی اور نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی نے نئی خدمات کے بارے میں معلومات جاری کیں۔
